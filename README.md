@@ -13,7 +13,7 @@ Creating conda environment
 To setup CI/CD pipeline in heroku we need 3 things as follow:
 
 1. HEROKU_EMAIL: rahulkothari215@gmail.com 
-2. HEROKU_API_KEY: 3e78e708-d712-403f-8b9b-ae21aae8e8e1
+2. HEROKU_API_KEY: <>
 3. HEROKU_APP_NAME: ml-rahul
 
 To Build Docker Image
